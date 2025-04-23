@@ -1,0 +1,1 @@
+print("ChangeBot çalışıyor! Hazırız!")
